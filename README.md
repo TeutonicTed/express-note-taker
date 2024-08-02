@@ -13,5 +13,5 @@ In this assignment, using the provided index files, I created a server.js file t
 
 ## Screenshot of the Deployed Version
 
-![Screenshot of the web page](./Develop/screenshot.png)
+![Screenshot of the web page](./screenshot.png)
 
