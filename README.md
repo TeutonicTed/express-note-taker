@@ -7,9 +7,13 @@ In this assignment, using the provided index files, I created a server.js file t
 - along with a uuid function to generate a unique ID and create each new note as a clickable button.
 
 
-## Link to Deployed Version
+## Link to GitHub Repo
 
 [Click here to see the deployed version](https://teutonicted.github.io/express-note-taker/)
+
+## Link to Deployed Version
+
+[Click here to see the deployed version](https://express-note-taker-52by.onrender.com/notes)
 
 ## Screenshot of the Deployed Version
 
